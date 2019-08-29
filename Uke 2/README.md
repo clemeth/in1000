@@ -4,6 +4,6 @@ Stikkord: [input](input.py), [feilmeldinger](feilmeldinger.py), [evaluering](eva
 
 ## Et par kommentarer fra forrige uke
 
-* Bruk riktig Python-versjon (Python 3)! [Eksempel](../Uke\ 1/input.py).
+* Bruk riktig Python-versjon (Python 3)! [Eksempel](input.py).
 * [Trix](https://trix.ifi.uio.no)
 * ssh og scp
