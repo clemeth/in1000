@@ -70,7 +70,7 @@ def hovedprogram():
     kennel.skrivHunder()
 
     if kennel.hentHund(0,0) == kennel.hentHund(0,1):
-        print("Nabohundene er samme kjønn")
+        print("Nabohundene på 0,0 og 0,1 er samme kjønn")
 
     print(kennel.hentHund(0,0))
 
