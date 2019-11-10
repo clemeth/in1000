@@ -1,4 +1,4 @@
-from kalkulator import Kalkulator
+from kalkulator_vinner import Kalkulator
 
 kalk = Kalkulator()
 
