@@ -1,4 +1,4 @@
-# IN1000 Gruppe 15
+# IN1000 gruppe 15
 
 Dette er Gruppe 15s egne GitHub-repo. Her blir all kode fra gruppetimene lagt ut.
 
